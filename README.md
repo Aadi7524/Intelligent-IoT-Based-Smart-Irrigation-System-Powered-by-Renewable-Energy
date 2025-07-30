@@ -21,7 +21,7 @@ Sensors: Soil moisture, LDR (sun detection), DHT11
 
 Power: Standalone solar setup
 
-Software: C/C++, Embedded C, Blynk IoT platform
+Software: C/C++, Arduino IDE, Blynk IoT platform
 
 Communication: Wi-Fi (via Blynk)
 
