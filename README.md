@@ -17,7 +17,7 @@ This project is a microcontroller-based smart irrigation system that automates w
 
 Microcontroller: [Specify here: e.g., Arduino Uno / ESP32]
 
-Sensors: Soil moisture, LDR (sun detection), DHT11/22 (optional)
+Sensors: Soil moisture, LDR (sun detection), DHT11
 
 Power: Standalone solar setup
 
